@@ -12,7 +12,7 @@ office全家桶，开始菜单-〉所有程序-〉Mircosoft Office 2013文件夹
 软家管家可以直接安装的：
 1. Chrome
 2. IE9
-3. 蓝信（http://www.lanxin.cn/）
+3. 蓝信 http://www.lanxin.cn
 4. 微信
 5. 7-zip
 6. 搜狗输入法，或者小狼毫
